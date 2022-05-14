@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img style="display: block;-webkit-user-select: none;margin: auto;height:25px;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Chiranjit Behera</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjit34&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjit34" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjit34&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjit34" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiranjit34" alt="chiranjit34" /></a> </p>
 
-- 🌱 I’m currently learning **React-Js**
+- 🌱 I’m currently learning **React.js Node.js Express.js MongoDB DSA**
 
 - 📫 How to reach me **chiranjitbehera34@gmail.com**
 
