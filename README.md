@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img style="display: block;-webkit-user-select: none;margin: auto;height:25px;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Chiranjit Behera</h1>
+<h1 align="center">Hi <img style="display: block;-webkit-user-select: none;margin: auto;height:15px;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Chiranjit Behera</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjit34&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjit34" /> </p> -->
