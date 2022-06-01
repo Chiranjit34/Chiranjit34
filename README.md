@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px width="30px">, I'm Chiranjit Behera</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px width="30px">, I'm Chiranjit Behera</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjit34&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjit34" /> </p> -->
 
