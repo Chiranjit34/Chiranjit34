@@ -4,24 +4,23 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Software+Engineer;)](https://git.io/typing-svg)
   
-  <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cq8zq18nxebpo5t2r1dgnmyddibdq953rd74v2xb&rid=giphy.gif&ct=g" height="285" width="300" alt="" top='10'>
-  <h1 dir="auto"><a id="user-content-about-me-" class="anchor" aria-hidden="true" href="#about-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji>About Me :</h1>
-  <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="👋 Hello, Welcome to my profile
-🌱 I’m currently looking for an opportunity as a MERN Stack developer
-⚡ I'm a passionate web developer
-👀 I’m interested in problem solving and data analytics and manipulation
-😂 I’m also having a great sense of humour with additional touch of memeing..
-😎 I love Cricket, Travelling, Listening Songs, and Watching movies for sometimes
-📫 How to reach me -&gt; drop me a <a href='mailto:chiranjitbehera34@gmail.com'>mail</a>
-❤️ You can ping me at <a target="_blank" href='https://www.linkedin.com/in/chiranjit-b-938109158/'>LinkedIn</a>
-  <pre class="notranslate"><code>👋 Hello, Welcome to my profile
+  <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cq8zq18nxebpo5t2r1dgnmyddibdq953rd74v2xb&rid=giphy.gif&ct=g" height="282.5" width="300" alt="" >
+<h1 dir="auto"><a id="user-content-about-me-" class="anchor" aria-hidden="true" href="#about-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji>About Me :</h1>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="👋 Hello, Welcome to my profile
 🌱 I’m currently looking for an opportunity as a MERN Stack developer
 ⚡ I'm a passionate Web developer
 👀 I’m interested in problem solving and data analytics and manipulation
 😂 I’m also having a great sense of humour with additional touch of memeing..
 😎 I love Cricket, Travelling, Listening Songs, and Watching movies for sometimes
-📫 How to reach me -&gt; drop me a <a href='mailto:chiranjitbehera34@gmail.com'>mail</a>
-❤️ You can ping me at <a target="_blank" href='https://www.linkedin.com/in/chiranjit-b-938109158/'>LinkedIn</a>
+📫 How to reach me -&gt; drop me a mail at prajaktakhadse00@gmail.com
+❤️ You can ping me at LinkedIn"><pre class="notranslate"><code>👋 Hello, Welcome to my profile
+🌱 I’m currently looking for an opportunity as a MERN Stack developer
+⚡ I'm a passionate Web developer
+👀 I’m interested in problem solving and data analytics and manipulation
+😂 I’m also having a great sense of humour with additional touch of memeing..
+😎 I love Cricket, Travelling, Listening Songs, and Watching movies for sometimes
+📫 To reach me -&gt; drop me a <a href='mailto:chiranjitbehera34@gmail.com'>mail</a>
+❤️ You can ping me at <a target="blank" href='https://www.linkedin.com/in/chiranjit-b-938109158/'>LinkedIn</a>
 </code></pre></div>
 
 <!-- <p><a href="mailto:someone@example.com">Send email</a></p> -->
@@ -32,11 +31,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiranjit34" alt="chiranjit34" /></a> </p>
 
-- 🌱 I’m currently learning **React.js Node.js Express.js MongoDB DSA**
+<!-- - 🌱 I’m currently learning **React.js Node.js Express.js MongoDB DSA** -->
 
-- 📫 How to reach me **chiranjitbehera34@gmail.com**
+<!-- - 📫 How to reach me **chiranjitbehera34@gmail.com** -->
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Jd-NupakVKpP6dAcEEJ_BC4hlgwuy3f-hrHGt1fqW8o/edit](https://docs.google.com/document/d/1Jd-NupakVKpP6dAcEEJ_BC4hlgwuy3f-hrHGt1fqW8o/edit)
+- 📄 Here is my <a target="blank" href='https://docs.google.com/document/d/1Jd-NupakVKpP6dAcEEJ_BC4hlgwuy3f-hrHGt1fqW8o/edit'>resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
