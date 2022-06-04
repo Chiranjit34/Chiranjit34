@@ -12,16 +12,19 @@
 👀 I’m interested in problem solving and data analytics and manipulation
 😂 I’m also having a great sense of humour with additional touch of memeing..
 😎 I love Cricket, Travelling, Listening Songs, and Watching movies for sometimes
-📫 How to reach me -&gt; drop me a mail at prajaktakhadse00@gmail.com
-❤️ You can ping me at LinkedIn"><pre class="notranslate"><code>👋 Hello, Welcome to my profile
-🌱 I’m currently looking for an opportunity as a JAVA Backend developer
-⚡ I'm a passionate software developer
+📫 How to reach me -&gt; drop me a <a href='mailto:chiranjitbehera34@gmail.com'>mail</a>
+❤️❤️ You can ping me at <a href='https://www.linkedin.com/in/chiranjit-b-938109158/'>LinkedIn</a>"><pre class="notranslate"><code>👋 Hello, Welcome to my profile
+🌱 I’m currently looking for an opportunity as a MERN Stack developer
+⚡ I'm a passionate Web developer
 👀 I’m interested in problem solving and data analytics and manipulation
 😂 I’m also having a great sense of humour with additional touch of memeing..
-😎 I love Cricket and Binge Watching the movies for sometimes
-📫 How to reach me -&gt; drop me a mail at Shaantanu1234@gmail.com
-❤️ You can ping me at LinkedIn
+😎 I love Cricket, Travelling, Listening Songs, and Watching movies for sometimes
+📫 How to reach me -&gt; drop me a <a href='mailto:chiranjitbehera34@gmail.com'>mail</a>
+❤️ You can ping me at <a target='blank' href='https://www.linkedin.com/in/chiranjit-b-938109158/'>LinkedIn</a>
 </code></pre></div>
+
+<!-- <p><a href="mailto:someone@example.com">Send email</a></p> -->
+
 
 <!-- <h3 align="center">A passionate full-stack developer from India</h3> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjit34&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjit34" /> </p> -->
