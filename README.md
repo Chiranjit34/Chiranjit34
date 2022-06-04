@@ -13,7 +13,8 @@
 😂 I’m also having a great sense of humour with additional touch of memeing..
 😎 I love Cricket, Travelling, Listening Songs, and Watching movies for sometimes
 📫 How to reach me -&gt; drop me a <a href='mailto:chiranjitbehera34@gmail.com'>mail</a>
-❤️ You can ping me at <a target="_blank" href='https://www.linkedin.com/in/chiranjit-b-938109158/'>LinkedIn</a>"><pre class="notranslate"><code>👋 Hello, Welcome to my profile
+❤️ You can ping me at <a target="_blank" href='https://www.linkedin.com/in/chiranjit-b-938109158/'>LinkedIn</a>
+  <pre class="notranslate"><code>👋 Hello, Welcome to my profile
 🌱 I’m currently looking for an opportunity as a MERN Stack developer
 ⚡ I'm a passionate Web developer
 👀 I’m interested in problem solving and data analytics and manipulation
