@@ -11,7 +11,7 @@
 ⚡ I'm a passionate Web developer
 👀 I’m interested in problem solving and data analytics and manipulation
 😂 I’m also having a great sense of humour with additional touch of memeing..
-😎 I love Cricket, Travelling, Listening Songs, and Watching movies for sometimes
+😎 I love Cricket, Travelling, Listening Songs, and Watching movies.
 📫 To reach me -&gt; drop me a <a href='mailto:chiranjitbehera34@gmail.com'>mail</a>
 ❤️ You can ping me at <a target="blank" href='https://www.linkedin.com/in/chiranjit-b-938109158/'>LinkedIn</a>
 </code></pre>
