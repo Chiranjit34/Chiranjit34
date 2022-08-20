@@ -30,14 +30,21 @@
 
 - 📄 Here is my <a target="blank" href='https://docs.google.com/document/d/1Jd-NupakVKpP6dAcEEJ_BC4hlgwuy3f-hrHGt1fqW8o/edit'>resume</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chiranjitbeher1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiranjitbeher1" width="130px" height="30px" /></a>
-<a href="https://linkedin.com/in/chiranjit-b-938109158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiranjit-b-938109158" width="130px" height="30px" /></a>
-<a href="https://fb.com/chiranjitbehera.jagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chiranjitbehera.jagan" width="130px" height="30px" /></a>
-<a href="https://instagram.com/chi_ran_jit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chi_ran_jit" width="130px" height="30px" /></a>
-<a href="https://medium.com/@chiranjitbehera34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chiranjitbehera34"  width="130px" height="30px" /></a>
-</p>
+- 📄 Here is my <a target="blank" href='https://chiranjitbehera.netlify.app/'>portfolio</a>
+
+
+
+## 🌐Socials
+[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://linkedin.com/in/chiranjit-b-938109158/) 
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chiranjitbehera34) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chi_ran_jit/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiranjit-b-938109158/) 
+
+
+
+
+
 
 
   
