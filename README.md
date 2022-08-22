@@ -19,7 +19,7 @@
 
 📫 To reach me -&gt; drop me a <a href='mailto:chiranjitbehera34@gmail.com'>mail</a>
 
-❤️ You can ping me at <a target="blank" href='https://www.linkedin.com/in/chiranjit-b-938109158/'>LinkedIn</a>
+❤️ You can ping me at <a target="blank" href='https://www.linkedin.com/in/chiranjit-b-938109158/'>linkedIn</a>
 
 📄 Here is my <a target="blank" href='https://chiranjitbehera.netlify.app/'>portfolio</a>
   
