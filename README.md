@@ -33,21 +33,7 @@
 📄 Here is my <a target="blank" href='https://chiranjitbehera.netlify.app/'>portfolio</a>
 </code></pre>-->
 
-<!-- <p><a href="mailto:someone@example.com">Send email</a></p> -->
 
-
-<!-- <h3 align="center">A passionate full-stack developer from India</h3> -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=chiranjit34&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjit34" /> </p> -->
-
-
-
-<!-- - 🌱 I’m currently learning **React.js Node.js Express.js MongoDB DSA** -->
-
-<!-- - 📫 How to reach me **chiranjitbehera34@gmail.com** -->
-
-<!-- - 📄 Here is my <a target="blank" href='https://docs.google.com/document/d/1Jd-NupakVKpP6dAcEEJ_BC4hlgwuy3f-hrHGt1fqW8o/edit'>resume</a> -->
-
-<!-- - 📄 Here is my <a target="blank" href='https://chiranjitbehera.netlify.app/'>portfolio</a> -->
 
 
 
